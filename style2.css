@@ -1,0 +1,11 @@
+button{
+	background-color: lightskyblue;
+	Border-color: none;
+	font-size: 30px;
+	border-radius: 20%;
+	padding:  20px: ;
+}
+button: hover{
+	background-color: blue;
+	color: white;
+}

@@ -1,0 +1,38 @@
+h1{
+	color:  #213741 ;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+	background-color: #BFC8DF;
+}
+h2{
+	color: #213741;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+	color: #213741;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+button{
+	background-color: #455C77;
+	Border-color: none;
+	font-size: 30px;
+	border-radius: 20%;
+	padding:  20px: ;
+	transition: 1s;
+}
+button: hover{
+	background-color: #455C77;
+	color: white;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+h4{
+	color: #213741;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
